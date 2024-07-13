@@ -2467,7 +2467,7 @@
     justify-content: flex-start;
     padding: 64px var(--padding-29xl);
     box-sizing: border-box;
-    background-image: url(./public/frame-8@3x.png);
+    background-image: url(./image/frame-8@3x.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -2708,8 +2708,7 @@
       box-sizing: border-box;
     }
     .inspiration-content-inner {
-      padding-top: var(--padding-2xl);
-      padding-bottom: var(--padding-2xl);
+     
       box-sizing: border-box;
     }
     .current-target,
